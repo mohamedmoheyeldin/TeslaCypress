@@ -1,0 +1,19 @@
+[
+  {
+    "modelHeaderText":"\n      Model Y\n    ",
+    "modelPicture":".tcl-image__picture > img[alt='Metallic blue Model Y driving down a hillside highway']"
+  },
+
+  {
+    "modelHeaderText":"\n      Model 3\n    ",
+    "modelPicture":".tcl-image__picture > img[alt='Metallic blue Model Y driving down a hillside highway']"
+  },
+  {
+    "modelHeaderText":"\n      Model S\n    ",
+    "modelPicture":".tcl-image__picture > img[alt='Metallic blue Model Y driving down a hillside highway']"
+  },
+  {
+    "modelHeaderText":"\n      Model X\n    ",
+    "modelPicture":".tcl-image__picture > img[alt='Metallic blue Model Y driving down a hillside highway']"
+  }
+]

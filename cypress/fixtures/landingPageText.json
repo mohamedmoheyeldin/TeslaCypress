@@ -1,0 +1,49 @@
+{
+  "TextInfo": {
+    "generic": {
+      "ScheduleDemoDrive": "Schedule a Demo Drive",
+      "CustomOrderButton": "Custom Order",
+      "ViewInventoryButton": "View Inventory"
+
+    },
+    "modelY": {
+      "HeaderText": "\n      Model Y\n    "
+
+    },
+
+    "model3": {
+      "HeaderText": "\n      Model 3\n    "
+    },
+
+    "modelS": {
+      "HeaderText": "\n      Model S\n    "
+    },
+
+    "modelX": {
+      "HeaderText": "\n      Model X\n    "
+    },
+
+    "solarPanels": {
+      "HeaderText": "\n      Solar Panels\n    ",
+      "OrderNowButton": "Order Now",
+      "LearnMoreButton": "Learn More",
+      "MiniHeaderText": "\n        Lowest Cost Solar Panels in America\n      "
+    },
+
+    "SolarRoofPanels": {
+      "HeaderText": "\n      Solar Roof\n    ",
+      "OrderNowButton": "Order Now",
+      "LearnMoreButton": "Learn More",
+      "MiniHeaderText": "\n        Produce Clean Energy From Your Roof\n      "
+    },
+
+    "Accessories": {
+      "HeaderText": "\n      Accessories\n    ",
+      "ShopNowButton": "Shop Now",
+      "LearnMoreButton": "Learn More"
+    }
+
+
+  }
+
+}
